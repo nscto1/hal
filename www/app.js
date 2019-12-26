@@ -1,4 +1,4 @@
-var firstUrl = "http://www.hallalin.id/app/",
+var firstUrl = "https://www.hallalin.id/app/",
 	urlService = firstUrl + "services/apps.php",
 	urlContent = firstUrl + "contents/";
 
